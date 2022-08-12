@@ -12,7 +12,7 @@
     <img src="images/DreePoLogo.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">DreePo Language</h3>
+  <h3 align="center">Now Even a Noob Can Program</h3>
 </p>
 
 
