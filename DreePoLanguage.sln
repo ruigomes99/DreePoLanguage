@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FDE9F513-0EB7-4508-A974-1577CBCD86AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreePo", "src\DreePo\DreePo.csproj", "{6806D49F-7925-4124-892E-B576F1079F92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{ED29219C-562B-418E-8301-55461636C9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreePo.Tests", "test\DreePo.Tests\DreePo.Tests.csproj", "{DDB67498-02B8-427F-BC38-F07ACE5E118A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6806D49F-7925-4124-892E-B576F1079F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6806D49F-7925-4124-892E-B576F1079F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6806D49F-7925-4124-892E-B576F1079F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6806D49F-7925-4124-892E-B576F1079F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB67498-02B8-427F-BC38-F07ACE5E118A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB67498-02B8-427F-BC38-F07ACE5E118A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB67498-02B8-427F-BC38-F07ACE5E118A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB67498-02B8-427F-BC38-F07ACE5E118A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6806D49F-7925-4124-892E-B576F1079F92} = {FDE9F513-0EB7-4508-A974-1577CBCD86AC}
+		{DDB67498-02B8-427F-BC38-F07ACE5E118A} = {ED29219C-562B-418E-8301-55461636C9DE}
+	EndGlobalSection
+EndGlobal

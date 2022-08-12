@@ -1,0 +1,7 @@
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\Grammer\sample.dp
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\DreePo.exe
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\DreePo.dll
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\DreePo.runtimeconfig.json
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\DreePo.pdb
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\Antlr4.Runtime.dll
+C:\Users\ruiar\Desktop\Projects\DreePoLanguage\publish\DreePo.deps.json
