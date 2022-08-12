@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ruigomes99/DreePoLanguage">
-    <img src="images/DreePoLogo.png" alt="Logo" width="360" height="360">
+    <img src="images/DreePoLogo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">DreePo Language</h3>
@@ -24,18 +24,19 @@
     <li><a href="#dependencies">Dependencies</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#dreepo-sample">DreePo Sample</a></li>
+    <li><a href="#proof-of-concept">Proof of Concept</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 
-### Dependencies
+## Dependencies
 - dotnet6
 - ANTLR4
 
 
-### Usage
+## Usage
 Go to the publish folder and execute the file in your terminal as the following example.
 NOTE: You need to give a path to a DreePo file as an argument !!!
 ```shell
@@ -43,7 +44,7 @@ cd publish
 DreePo.exe Grammer\sample.dp
 ```
 
-### DreePo Sample
+## DreePo Sample
 
 ```shell
 Write("-----------------------");
@@ -65,6 +66,14 @@ until i > 10
 Write("Cool !!! " + i + " is greather than 10 :v");
 Write("-----------------------");
 ```
+
+
+## Proof of Concept
+<p align="center">
+  <a href="https://github.com/ruigomes99/DreePoLanguage">
+    <img src="images/PoF.png" alt="Proof of Concept">
+  </a>
+</p>
 
 
 ## License
